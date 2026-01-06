@@ -1,4 +1,4 @@
-# 🌊 MeetFlow - Real-Time Video Conferencing
+#  MeetFlow - Real-Time Video Conferencing
 
 MeetFlow is a high-performance, full-stack video conferencing application built to provide seamless real-time communication. Inspired by platforms like Zoom, it leverages WebRTC for peer-to-peer media streaming and Socket.io for low-latency signaling.
 
@@ -9,15 +9,15 @@ MeetFlow is a high-performance, full-stack video conferencing application built 
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
-* **⚡ Real-Time Video/Audio:** Peer-to-peer high-quality media streaming using WebRTC.
-* **📱 Dynamic Grid Layout:** Responsive UI that adjusts as users join or leave the room.
-* **💬 Instant Messaging:** Integrated chat functionality via Socket.io.
-* **🖥️ Screen Sharing:** Share your desktop or specific windows with other participants.
-* **🔒 Room Logic:** Create and join unique meeting rooms via dynamic URLs.
+* ** Real-Time Video/Audio:** Peer-to-peer high-quality media streaming using WebRTC.
+* ** Dynamic Grid Layout:** Responsive UI that adjusts as users join or leave the room.
+* ** Instant Messaging:** Integrated chat functionality via Socket.io.
+* ** Screen Sharing:** Share your desktop or specific windows with other participants.
+* ** Room Logic:** Create and join unique meeting rooms via dynamic URLs.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Frontend:**
 * **React.js**: For building the component-based UI.
